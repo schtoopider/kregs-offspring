@@ -1,5 +1,6 @@
 # Additions
 
+key.py
 *.bacon
 
 # Byte-compiled / optimized / DLL files
